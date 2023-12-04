@@ -1,0 +1,101 @@
+
+.hh-product{
+    text-align: center;
+    padding: 5px 2px;
+    display: inline-block;
+}
+.hh-header{
+    position: relative;
+    height: 170px;
+
+
+}
+.hh-logo{
+    position: absolute;
+    right: 0px;
+    width: 400px;
+    float: right;
+
+}
+.hh-company{
+    font-family: Impact;
+    font-size: 35px;
+    text-shadow: 0 0 2px black;
+    position: absolute;
+    top: 45px;
+    padding-bottom: 2px;
+    border-bottom: 1px dotted gray;
+
+}
+.hh-slogan{
+    position: absolute;
+    top: 100px;
+}
+.hh-body{
+    padding: 5px;
+
+}
+.hh-cart ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-size: smaller;
+
+}
+.hh-cart img{
+    height: 30%;
+    width: 30%;
+}
+.hh-card{
+    margin: 7px 0;
+}
+.hh-product .card-body img{
+    height: 150px;
+    max-width: 95%;
+}
+.hh-sheet{
+    box-shadow: 0 0 5px;
+    border-radius: 10px;
+    padding: 5px;
+    position: relative;
+    top: -10px;
+    margin-top: 20px;
+}
+.col-3{
+    margin: 1px;
+
+}
+.btn{
+    margin: 5%;
+
+}
+.a{
+    margin-top: 5%;
+    width: max-content;
+}
+ul li{
+    align-items:center ;
+}
+.nav-item{
+    text-align: left;
+    width: max-content;
+    margin-top: 20px;
+}
+#navbarSupportedContent{
+    margin-bottom: 20px;
+}
+.col-sm-9{
+    text-align: left;
+}
+.bi-facebook{
+    position: relative;
+    padding-left: 2ch;
+}
+.bi-twitter{
+    padding-left: 25px;
+    position: relative;
+}
+.bi-instagram{
+    padding-left:  25px;
+    position: relative;
+}
